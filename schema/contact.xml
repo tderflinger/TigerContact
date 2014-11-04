@@ -1,0 +1,9 @@
+<response>
+  <identifier>10</identifier>
+  <time>2014-08-07 13:09:06.713</time>
+  <name>testname</name>
+  <email>to8@hotmail.com</email>
+  <phone>089888</phone>
+  <message>just a message</message>
+  <moreInfo>true</moreInfo>
+</response>
