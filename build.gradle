@@ -38,6 +38,11 @@ webAppDirName = 'WebContent'
 
 httpPort = 8085
 
+cobertura {
+	coverageFormats = ['xml']
+}
+
+
 sourceSets {
 	main {
 		groovy { srcDirs = ['src'] }
