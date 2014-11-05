@@ -19,4 +19,10 @@ To start the RESTful web service use the following gradle command:
 
 gradle clean jettyRun
 
+Future Development
+------------------
+
+I would like to encourage you to develop similar RESTful web services in different languages. So in the future one is able to see the different strengths and weaknesses of each implementation language.
+
+For example, try to implement a RESTful micro service in Ruby, Python, JavaScript, etc.
 
