@@ -26,3 +26,7 @@ I would like to encourage you to develop similar RESTful web services in differe
 
 For example, try to implement a RESTful micro service in Ruby, Python, JavaScript, etc.
 
+Feedback
+--------
+For any kind of feedback I am deeply grateful. Please send en email to: tigerontact@batino.eu
+Thanks!
